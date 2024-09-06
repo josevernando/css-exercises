@@ -21,9 +21,10 @@ body {
   background: green;
   color: white;
   font-weight: bold;
-} 
+}
 
-.button {
+.button, .confirm,
+.cancel {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
